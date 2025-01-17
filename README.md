@@ -20,7 +20,7 @@ Esta aplicación permite a los usuarios crear una lista de amigos y realizar un 
 ## 🛠️ Tecnologías utilizadas
 
 - **Frontend**: HTML, CSS, JavaScript (Vanilla o frameworks según preferencia).
-- **Backend** (opcional): No es necesario para esta versión básica, pero se puede implementar con Node.js o cualquier tecnología para almacenamiento persistente de datos.
+- **Backend** (opcional): No es necesario para esta versión básica, pero se puede implementar con Node.js en este caso se utilizo JavaScript o cualquier tecnología para almacenamiento persistente de datos.
 - **Estilo y diseño**: CSS para crear una interfaz sencilla y atractiva.
 
 ## 📝 Cómo usar la aplicación
